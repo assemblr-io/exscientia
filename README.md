@@ -19,7 +19,7 @@ This was a really interesting challenge for a few reasons, in particular I had t
 
 ## Next Steps
 
-- if i had more time, i'd be keen to try out a few other libraries as I found dash/plotly abstracted away styles/layout and made doing pretty a bit like magic!
+- if i had more time, i'd be keen to try out a few other libraries as I found dash/plotly abstracted away styles/layout and made doing pretty a bit very unhelpful not fun magic!! :)
 - integrate into a proper React app, and build a generic React/plotting app boilerplate
 - allow for select and not just hover to cross-filter
 - fix the Lineweaver so it extends and crosses the x-axis
