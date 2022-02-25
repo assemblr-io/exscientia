@@ -2,7 +2,8 @@
 
 This was a really interesting challenge for a few reasons, in particular I had to try and remember how to do a Lineweaver-Burk plot for inhibitor kinetics, and also I decided to do a web based python app using a library and IDE i haven't used before to try and challenge the creative element.
 
-![](/Users/dc/Desktop/Screen Shot 2022-02-25 at 9.51.01 am.png)
+![Screen Shot 2022-02-25 at 9 51 01 am](https://user-images.githubusercontent.com/95592979/155639365-26db0312-fec7-4fb3-9aed-5eb8f4c00b0a.png)
+
 
 ## User Features
 
