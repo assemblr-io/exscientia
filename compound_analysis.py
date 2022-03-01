@@ -80,6 +80,7 @@ def update_individual_compound_line(hoverData):
         (df_results['Compound ID'] == hoverData['points'][0]['customdata'][0])]
     fig = px.line(rows_with_compound, x="Concentration (M)", y="% Inhibition", color='Compound ID', log_x=True,
                   markers=True,
+                  range_y=(0,110),
                   range_x=(
                       rows_with_compound["Concentration (M)"].min(), rows_with_compound["Concentration (M)"].max()))
     fig.update_layout(
