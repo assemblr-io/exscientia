@@ -9,7 +9,8 @@ This was a really interesting challenge for a few reasons, in particular I had t
 
 - A main scatter plot showing compound activity, coloured by the result type
 - hovering over one of these points cross filters the two smaller charts to the left
-- showing a sad excuse for a lineweaver-burk plot (top right) and a dose response curve below (right-bottom)
+- showing a sad excuse for a lineweaver-burk plot (top right) and a dose response curve below (right-bottom).
+- the lineweaver-burk plot is not accurate as I didn't have all of the values (Km) OR know the inhibition type - but wanted to show how I would lay out the data if i did have it.  I would also have shown the R2 and fit to the data and x and y intercepts.
 
 ## Technical Features
 
